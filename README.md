@@ -1,2 +1,2 @@
-# vuejs-laravel
+# Vue JS &amp; Laravel
 Practice Vue JS &amp; Laravel
