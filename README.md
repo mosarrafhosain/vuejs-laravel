@@ -1,2 +1,2 @@
 # Vue JS &amp; Laravel
-Practice Vue JS &amp; Laravel
+Vue JS &amp; Laravel Production
